@@ -77,6 +77,7 @@ export default {
   padding: 5px;
 }
 .c-user-name {
+  font-weight: bold;
   color: #7952b3;
   margin-bottom: 0;
   display: inline-block;

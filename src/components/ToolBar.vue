@@ -31,7 +31,7 @@
       </div>
       <div class="nav-icons">
         <a href="https://github.com/ragaban/" target="_blank"><img class="nav-bar-icons" src="@/res/git-icon.png" alt="GitHub" /></a>
-        <a href="https://anton_parfilo@gmail.com" target="_blank"><img class="nav-bar-icons" src="@/res/gmail-icon.png" alt="Gmail" /></a>
+        <a href="mailto:anton.parfilo@gmail.com" target="_blank"><img class="nav-bar-icons" src="@/res/gmail-icon.png" alt="Gmail" /></a>
         <a href="https://t.me/Anton_Parfilo" target="_blank"><img class="nav-bar-icons" src="@/res/telegram-icon.png" alt="Gmail" /></a>
       </div>
     </div>
